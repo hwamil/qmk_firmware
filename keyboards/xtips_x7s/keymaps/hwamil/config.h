@@ -64,6 +64,6 @@
 #define ONESHOT_TAP_TOGGLE 0
 
 /*Combos*/
-// #ifdef COMBO_ENABLE
-// #    define COMBO_TERM 25
-// #endif
+#ifdef COMBO_ENABLE
+#    define COMBO_TERM 25
+#endif
