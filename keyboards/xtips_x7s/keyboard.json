@@ -88,7 +88,7 @@
         "vid": "0x5262"
     },
     "dynamic_keymap": {
-        "layer_count": 9
+        "layer_count": 11
     },
     "build": {
         "lto": true

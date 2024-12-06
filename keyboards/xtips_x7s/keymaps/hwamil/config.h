@@ -55,7 +55,7 @@
 #define TAPPING_TOGGLE 0
 
 // Turning this on helps ensure that if you're still holding a tap-hold key and press another key, it will treat the original tap-hold key as a hold. This is a good default for modifier keys (like ALT, GUI, or CTRL).
-#define HOLD_ON_OTHER_KEY_PRESS
+/*#define HOLD_ON_OTHER_KEY_PRESS*/
 
 #define PERMISSIVE_HOLD
 // #undef HOLD_ON_OTHER_KEY_PRESS
@@ -64,6 +64,6 @@
 #define ONESHOT_TAP_TOGGLE 0
 
 /*Combos*/
-#ifdef COMBO_ENABLE
-#    define COMBO_TERM 25
-#endif
+// #ifdef COMBO_ENABLE
+// #    define COMBO_TERM 25
+// #endif
